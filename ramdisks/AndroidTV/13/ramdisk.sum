@@ -1,9 +1,0 @@
-SHA1 :
-bc639c2169b3cdfe292e3b68e03e159297c160bf  ./ramdisk.img.xz
-8326e0a670f1086ca4760b3585d46802b9cfd50e  ./ramdisk-recovery.img.xz
-MD5 :
-1649b65c0608872b20877bd23849f467  ./ramdisk.img.xz
-2bee82f04194d38f6af0d80d23477d1d  ./ramdisk-recovery.img.xz
-SHA256 :
-368108d97874050101995714c37a196e099aea61cb8a71b471cc1a1d6c945843  ./ramdisk.img.xz
-c8d8d753dfc67cdcb4b19085f6f29d526f8b184853c101f85513a0685c7fbc51  ./ramdisk-recovery.img.xz
